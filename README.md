@@ -25,4 +25,4 @@ The pipeline performs the following steps, which are encoded as as series of doc
 
 ## WARNING
 
-We are currently using the IHCC images instead of the official EBI ones.. We should use those, but last time I checked they were not up to date.
+We are currently using the IHCC images instead of the official EBI ones.. We should use those, but last time I checked they were not up to date. 
